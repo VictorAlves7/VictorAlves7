@@ -4,7 +4,7 @@
 ## Informações de Contato
 :e-mail: victoralves.privado@gmail.com
 
-:telephone_receiver: (47) 9 9777-4744 - [WhatsApp](api.whatsapp.com/send?phone=5547997774744)
+:telephone_receiver: (47) 9 9777-4744 - [WhatsApp](https://api.whatsapp.com/send?phone=5547997774744)
 
 :house: [Navegantes / SC - Bairro Centro](https://bit.ly/2ZrjjL6)
 
