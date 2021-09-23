@@ -1,13 +1,5 @@
 # Victor Gabriel Alves Proença
-1. [Informações de Contato](https://github.com/KrauzerPH94/curriculo#informa%C3%A7%C3%B5es-de-contato)
-1. [Objetivo de Carreira](https://github.com/KrauzerPH94/curriculo#objetivo)
-1. [Perfil Pessoal](https://github.com/KrauzerPH94/curriculo#perfil-pessoal)
-1. [Formação Acadêmica](https://github.com/KrauzerPH94/curriculo#forma%C3%A7%C3%A3o)
-1. [Conhecimento em Idiomas](https://github.com/KrauzerPH94/curriculo#idiomas)
-1. [Habilidades em Informática](https://github.com/KrauzerPH94/curriculo#inform%C3%A1tica)
-1. [Experiências Profissionais](https://github.com/KrauzerPH94/curriculo#heavy_dollar_sign-experi%C3%AAncias-profissionais)
-1. [Atividades Complementares](https://github.com/KrauzerPH94/curriculo#atividades-complementares)
----
+
 
 ## Informações de Contato
 :e-mail: victoralves.privado@gmail.com
@@ -61,5 +53,3 @@
 ## ATIVIDADES COMPLEMENTARES
 #### ⚠️ ``Bombeiro Voluntário:`` participação nos bombeiros militares voluntários em 2016.
 #### 🔬 ``Auxiliar de Enfermagem:`` Auxiliar voluntário de um policial militar que se encontra paraplégico. 2020-Atualmente
-
-[Retornar ao Topo](https://github.com/KrauzerPH94/curriculo#pedro-henrique-dorneles-krauzer-da-rosa)
